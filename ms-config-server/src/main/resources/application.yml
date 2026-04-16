@@ -16,5 +16,5 @@ spring:
 
   security:
     user:
-      name: root
-      password: 123456
+      name: ${CONFIG_SERVER_USER:admin123}
+      password: ${CONFIG_SERVER_PASSWORD}

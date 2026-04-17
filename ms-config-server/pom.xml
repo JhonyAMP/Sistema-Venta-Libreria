@@ -6,8 +6,8 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.4</version> <!-- Verifica que esta es la última versión estable -->
-		<relativePath/> <!-- lookup parent from repository -->
+		<version>3.3.10</version> <!-- Antes tenías 3.2.4 -->
+		<relativePath/>
 	</parent>
 
 	<groupId>com.example</groupId>
